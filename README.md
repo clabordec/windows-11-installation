@@ -25,7 +25,7 @@ This project outlines the installation and set up of Windows 11 Pro.<br />
 <h1>Deployment and Configuration Steps</h1>
 
 ## Installing and setting up Windows 11 Pro
-### Go to a search browser and type in `windows 10 bootable usb` and choose the highlighted link
+### 
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5d93fa76-394d-4eaa-b692-a45aa82d8a40" />
 </p>
