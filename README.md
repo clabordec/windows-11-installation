@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e9540c52-8dd8-43c7-b504-d4934c896de7" width="650" alt="Microsoft Active Directory Logo"/>
+</p>
+
+
 <h1>Installing and setting up Windows 11 Enterprise in VMware Workstation Pro</h1>
 
 This project outlines the installation and set up of Windows 11 Enterprise to play as the target machine.<br />
